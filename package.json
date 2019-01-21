@@ -1,0 +1,25 @@
+{
+  "name": "pcpjs",
+  "version": "0.0.1",
+  "description": "pcp protocol js version",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoveKino/pcpjs.git"
+  },
+  "keywords": [
+    "pcp"
+  ],
+  "author": "ddchen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LoveKino/pcpjs/issues"
+  },
+  "homepage": "https://github.com/LoveKino/pcpjs#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
