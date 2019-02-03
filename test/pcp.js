@@ -1,13 +1,13 @@
 const {
   parseJsonAst
-} = require('../src/pcp/pcpServer');
+} = require('../lib/pcp/pcpServer');
 const assert = require('assert');
 const {
   getPcpServer,
   getPcpClient,
   Sandbox,
   toSandboxFun
-} = require('../src/pcp');
+} = require('../lib/pcp');
 
 describe('pcp', () => {
   it('parseJsonAst:base', () => {
