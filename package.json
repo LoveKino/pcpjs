@@ -23,6 +23,7 @@
     "mocha": "^5.2.0"
   },
   "dependencies": {
+    "cl-requestor": "0.0.3",
     "uuid": "^3.3.2"
   }
 }
